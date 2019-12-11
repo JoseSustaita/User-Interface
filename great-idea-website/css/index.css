@@ -91,6 +91,7 @@ header nav a {
 	font-size: 50px;
 	width: 50%;
 	font-family: 'Bebas Neue', cursive; /*Google font stretch goal*/
+	margin-top: 3%;
 	
 }
 .logo2 {
@@ -98,15 +99,18 @@ header nav a {
 	margin-left: 450px;
 }
 #get {
-	border: solid 1px gray;
-	display: inline-block;
-	margin-right: 242px;
+	border: solid 1px black;
+    display: inline-block;
+    margin-right: 430px;
+    padding: 6px;
+    width: 135px;
 }
 /* above second img*/
 #features {
 	display: inline-block;
 	width: 44%;
 	margin-bottom: 30px;
+	margin-top: 14px;
 }
 #about {
 	display: inline-block;
