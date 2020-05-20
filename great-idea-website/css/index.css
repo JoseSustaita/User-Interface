@@ -64,3 +64,85 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/*Header*/
+#container{
+	width:876px;
+	margin: auto;
+	
+}
+
+header nav{
+	display:inline-block;
+	margin-top: 35px;
+}
+header nav a {
+	margin: 0 20px;
+}
+.logo {
+	display: inline-block;
+	margin-left: 140px;
+}
+.demand {
+	display: inline-block;
+	text-align:center;
+	
+}
+#innovation {
+	font-size: 50px;
+	width: 50%;
+	font-family: 'Bebas Neue', cursive; /*Google font stretch goal*/
+	margin-top: 3%;
+	
+}
+.logo2 {
+	display: inline-block;
+	margin-left: 450px;
+}
+#get {
+	border: solid 1px black;
+    display: inline-block;
+    margin-right: 430px;
+    padding: 6px;
+    width: 135px;
+}
+/* above second img*/
+#features {
+	display: inline-block;
+	width: 44%;
+	margin-bottom: 30px;
+	margin-top: 14px;
+}
+#about {
+	display: inline-block;
+	width: 44%;
+}
+.middle-img {
+	display: inline-block;
+}
+/*Bottom of page*/
+#services{
+	display: inline-block;
+	width: 30%;
+	margin-top: 30px;
+}
+#product{
+	display: inline-block;
+	width: 30%;
+}
+#vision {
+	display: inline-block;
+	width: 30%;
+}
+#contact {
+	width: 30%;
+}
+.address{
+	width:52%;
+}
+.copyright{
+	text-align: center;
+    font-size: 13px;
+    margin-left: 400px;
+    width: 56%;
+    margin-bottom: 20px;
+}
